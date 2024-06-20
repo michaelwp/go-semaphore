@@ -1,2 +1,2 @@
 # go-semaphore
-go-semaphore is a small tool/ package that implementing semaphore pattern that writing in go language
+Go-semaphore is a small Go tool/package that implements the semaphore pattern to manage the number of concurrent Goroutines accessing a shared resource.
