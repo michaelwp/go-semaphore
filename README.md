@@ -4,7 +4,7 @@ to run concurrently.
 
 ### installation
 ```shell
-go install github.com/michaelwp/go-semaphore
+go get -d github.com/michaelwp/go-semaphore
 ```
 
 ### basic of use
