@@ -5,7 +5,7 @@
 	that can be used to manage number of concurrent processes.
 	-----------------------------------------------------------------
 	This code is free to use, modify and distribute, although
-	the author is not responsible for any damage happened in its use.
+	the author is not responsible for any damage occured in its use.
 	-----------------------------------------------------------------
 	visit the code repository in github.com/michaelwp/go-semaphore
 */
