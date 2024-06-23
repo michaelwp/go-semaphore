@@ -8,7 +8,6 @@ go get -d github.com/michaelwp/go-semaphore
 ```
 
 ### basic of use
-
 ```go
 package main
 
